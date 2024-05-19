@@ -9,12 +9,12 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=supriyakaity&label=Profile%20views&color=0e75b6&style=flat" alt="supriyakaity" /> 
 </p>
-
-- 🔭 I’m currently working on [Film Fanatic](https://github.com/Swastikdan/Film-Fanatic)
-- 🌱 I’m currently learning **React, Astro**
+  🔭 I’m currently Studying Computer Science 
+- 🌱 I’m currently learning *JAVA*
+💬 Ask me about *C,JAVA,HTML,CSS*
 - 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/supriya-kaity/)
-- 📫 How to reach me: **supriyakaity2002@gmail.com**
-- ⚡ Fun fact: **I am funny 😅**
+- 📫 How to reach me: *supriyakaity2002@gmail.com*
+- ⚡ Fun fact: *I am funny 😅*
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
