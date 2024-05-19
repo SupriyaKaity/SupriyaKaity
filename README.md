@@ -1,3 +1,4 @@
+
 ![logo](https://camo.githubusercontent.com/1cc4a09c2e1425ea8299bad1e673df6139b484072801bede9a1d098a24981328/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)
 <h1 align="center">Hi 👋, I'm Supriya Kaity</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
@@ -9,12 +10,13 @@
 <p align="center"> 
     <img src="https://komarev.com/ghpvc/?username=supriyakaity&label=Profile%20views&color=0e75b6&style=flat" alt="supriyakaity" /> 
 </p>
-  🔭 I’m currently Studying Computer Science 
-- 🌱 I’m currently learning *JAVA*
-💬 Ask me about *C,JAVA,HTML,CSS*
+
+- 🔭 I’m currently studying Computer Science
+- 🌱 I’m currently learning **JAVA**
+- 💬 Ask me about **C, JAVA, HTML, CSS**
 - 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/supriya-kaity/)
-- 📫 How to reach me: *supriyakaity2002@gmail.com*
-- ⚡ Fun fact: *I am funny 😅*
+- 📫 How to reach me: **supriyakaity2002@gmail.com**
+- ⚡ Fun fact: **I am funny 😅**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
