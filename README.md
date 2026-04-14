@@ -12,8 +12,8 @@
 </p>
 
 - 🔭 I’m currently studying Computer Science
-- 🌱 I’m currently learning **JAVA**
-- 💬 Ask me about **C, JAVA, HTML, CSS**
+- 🌱 I’m currently learning **JAVA Full Stack**
+- 💬 Ask me about **JAVA, HTML, CSS, JS, SQL, ReactJs**
 - 👨‍💻 All of my projects are available on [LinkedIn](https://www.linkedin.com/in/supriya-kaity/)
 - 📫 How to reach me: **supriyakaity2002@gmail.com**
 - ⚡ Fun fact: **I am funny 😅**
